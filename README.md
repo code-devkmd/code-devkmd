@@ -6,7 +6,7 @@ I build interactive tools and AI-driven applications focused on real-world probl
 
 ## 🚀 What I'm Working On
 
-- AnimLab  — CSS Animation Visualizer
+- DevTerminal  — Intelligent Developer CLI 
 - Luminary — AI-powered student tools (career guidance, mind mapping)
 
 ---
@@ -40,15 +40,16 @@ Other:
 
 ## 🔥 Featured Projects
 
-### 🚀 AnimLab — CSS Animation Visualizer
-A modern animation playground that lets developers visualize, customize, and export CSS animations in real time.
+### 🖥️ DevTerminal — Intelligent Developer CLI
 
-- Live preview + controls
-- 40+ animations
-- Code generation system
+A modern, cross-platform terminal built for developers who want a smarter command-line experience. DevTerminal enhances productivity with real-time suggestions, command correction, and intelligent auto-completion.
 
-👉 [Github Repo](https://github.com/code-devkmd/Anim-Lab)  
-👉 [Live Demo](https://anim-lab-gamma.vercel.app/)
+ - Ghost suggestions (zsh-like inline hints)
+ - Path-aware autocomplete (files & directories)
+ - Cross-platform command adaptation (Linux ↔ Windows)
+ - Persistent command history with learning behavior 
+
+👉 [Github Repo](https://github.com/code-devkmd/DevTerminal)
 
 ### 🤖 Luminary — AI-powered student tools
 An AI-powered productivity platform that helps students generate notes, summaries, mind maps, and structured learning workflows.
