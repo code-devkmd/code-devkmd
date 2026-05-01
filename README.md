@@ -3,7 +3,7 @@
 I build interactive tools and AI-driven applications focused on real-world problem solving and developer usability.
 
 ---
-
+   
 ## 🚀 What I'm Working On
 
 - DevTerminal  — Intelligent Developer CLI 
